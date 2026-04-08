@@ -11,7 +11,7 @@ struct NavigationBar: View {
     var body: some View {
         HStack {
             Spacer()
-            Button("R. Oscar Freire, 1232") {
+            Button("R. Oscar Freire, 1753") {
                 
             }
             .font(.subheadline)
